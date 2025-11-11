@@ -1,0 +1,14 @@
+## 혼자 공부하는 파이썬
+- [ ] ch01. 파이썬 시작하기
+- [x] [ch02](https://github.com/HANISY/Python-Study/blob/main/Ch02.ipynb) 자료형
+- [x] [ch03](https://github.com/HANISY/Python-Study/blob/main/Ch03.ipynb) 조건문
+- [x] [ch04-1](https://github.com/HANISY/Python-Study/blob/main/Ch04-1.ipynb) 리스트와 반복문
+- [x] [ch04-2](https://github.com/HANISY/Python-Study/blob/main/Ch04-2.ipynb) 딕셔너리와 반복문
+- [x] [ch04-3](https://github.com/HANISY/Python-Study/blob/main/Ch04-3.ipynb) 범위 자료형과 while 반복문
+- [x] [ch04-4](https://github.com/HANISY/Python-Study/blob/main/Ch04-4.ipynb) 문자열, 리스트, 딕셔너리와 관련된 기본 함수 
+- [x] [ch05-1](https://github.com/HANISY/Python-Study/blob/main/Ch05-1.ipynb) 함수 만들기
+- [x] [ch05-2](https://github.com/HANISY/Python-Study/blob/main/Ch05-2.ipynb) 함수의 활용
+- [x] [ch05-3](https://github.com/HANISY/Python-Study/blob/main/Ch05-3.ipynb) 함수 고급
+- [ ] ch06. 예외처리 
+- [ ] ch07. 모듈
+- [ ] ch08. 클래스 
