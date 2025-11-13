@@ -8,7 +8,7 @@
 - [x] [ch04-4](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch04-4.ipynb) 문자열, 리스트, 딕셔너리와 관련된 기본 함수 
 - [x] [ch05-1](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch05-1.ipynb) 함수 만들기
 - [x] [ch05-2](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch05-2.ipynb) 함수의 활용
-- [x] [ch05-3](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch05-3.ipynb) 함수 고급
-- [ ] [ch06](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch06.ipynb) 예외처리 
+- [ ] ch05-3. 함수 고급
+- [x] [ch06](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch06.ipynb) 예외처리 
 - [ ] ch07. 모듈
 - [ ] ch08. 클래스 
