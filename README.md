@@ -10,5 +10,5 @@
 - [x] [ch05-2](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch05-2.ipynb) 함수의 활용
 - [x] [ch05-3](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch05-3.ipynb) 함수 고급
 - [x] [ch06](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch06.ipynb) 예외처리 
-- [ ] ch07. 모듈
+- [x] [ch07](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch07.ipynb) 모듈
 - [ ] ch08. 클래스 
