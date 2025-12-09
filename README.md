@@ -11,4 +11,4 @@
 - [x] [ch05-3](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch05-3.ipynb) 함수 고급
 - [x] [ch06](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch06.ipynb) 예외처리 
 - [x] [ch07](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch07.ipynb) 모듈
-- [ ] ch08. 클래스 
+- [x] [ch08](https://github.com/HANISY/Python-Study/blob/main/Hongong/Ch08.ipynb)클래스 
